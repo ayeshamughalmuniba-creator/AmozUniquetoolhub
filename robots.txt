@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://amozunique.com/sitemap.xml
-
-Disallow: /admin/
-Disallow: /.env
